@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YNG-BFG
-- 👀 I’m interested in ... Genomics/Genetics the analytics behind the developing genetic solutions.
+- 👀 I’m interested in ... Simplifying/ automating processes, Genomics/Genetics
 - 🌱 I’m currently learning ... SQL and R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
